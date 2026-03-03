@@ -1,18 +1,14 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chamod%20Gayashan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20.NET%20Specialist%20%7C%20Cloud%20Architect&descAlignY=58&descColor=a78bfa" />
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+.NET+backends+%F0%9F%9A%80;Crafting+cloud-native+architectures+%E2%98%81%EF%B8%8F;Turning+complex+problems+into+elegant+code+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+.NET+backends+%F0%9F%9A%80;Crafting+cloud-native+architectures+%E2%98%81%EF%B8%8F;Turning+complex+problems+into+elegant+code+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=chamod0003&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=chamod0003&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/chamod0003?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b" />
 
@@ -21,7 +17,6 @@
 ---
 
 ## 🧠 About Me
-
 ```csharp
 public class Chamod : BackendDeveloper
 {
@@ -60,34 +55,46 @@ public class Chamod : BackendDeveloper
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Languages and Tools
 
-<div align="center">
-
-### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🚀 Frameworks & Platforms
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🗄️ Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
+  </a>
+</p>
 
 ---
 
