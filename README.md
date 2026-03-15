@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 ```csharp
 public class Chamod : BackendDeveloper
 {
@@ -43,7 +43,7 @@ public class Chamod : BackendDeveloper
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -55,7 +55,7 @@ public class Chamod : BackendDeveloper
 
 ---
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -98,7 +98,7 @@ public class Chamod : BackendDeveloper
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -115,7 +115,7 @@ public class Chamod : BackendDeveloper
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
