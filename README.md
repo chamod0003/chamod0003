@@ -16,7 +16,8 @@
 
 ---
 
-##  About Me
+## About Me
+
 ```csharp
 public class Chamod : BackendDeveloper
 {
@@ -43,7 +44,7 @@ public class Chamod : BackendDeveloper
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -55,11 +56,9 @@ public class Chamod : BackendDeveloper
 
 ---
 
-##  Languages and Tools
-
 ## Languages and Tools
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -72,11 +71,11 @@ public class Chamod : BackendDeveloper
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-</div>
+</p>
 
 ---
 
-##  GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -93,7 +92,7 @@ public class Chamod : BackendDeveloper
 
 ---
 
-##  GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
