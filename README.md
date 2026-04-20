@@ -28,9 +28,7 @@ public class Chamod : BackendDeveloper
 
     public string[] CurrentFocus => new[] {
         "Building robust REST APIs with ASP.NET Core",
-        "Designing microservices architectures",
-        "Exploring cloud-native patterns on Azure & GCP",
-        "Mastering distributed systems"
+        "Designing more architectures",
     };
 
     public string[] Hobbies => new[] {
